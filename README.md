@@ -1,32 +1,87 @@
 <h1 align="center">Hi 👋, I'm Sushant</h1>
 
-<h3 align="center">
-Data Science | ML Enthusiast | Linux Explorer
-</h3>
+<h3 align="center">Data Science Student • Python Enthusiast • Lifelong Learner</h3>
 
 <p align="center">
-🚀 Building skills one commit at a time
+🇳🇵 Nepal | 📊 Data Science | 🐍 Python | 🤖 Machine Learning
 </p>
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
-- 🎓 Student from Nepal
-- 🤖 Learning Machine Learning
-- 🔐 Exploring Cyber Security
-- 🐍 Python Developer
-- 🐧 Linux User
-- 📚 Studying Data Science at Tribhuvan University
+- 🎓 First-year Data Science student at Tribhuvan University
+- 📊 Interested in Data Science, Machine Learning, and AI
+- 🐍 Learning Python and data analysis
+- 🐧 Linux enthusiast
+- 📚 Currently strengthening my foundation in mathematics, statistics, and programming
+- 🚀 Building projects and documenting my learning journey
 
 ---
 
-### 🚀 Tech Stack
+## 🚀 Tech Stack
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Machine Learning" />
-</p>
+### Languages
+- Python
+- SQL (Learning)
+- C
+
+### Data Science & ML
+- NumPy
+- Pandas
+- Matplotlib
+- Scikit-learn (Learning)
+
+### Tools
+- Jupyter Notebook
+- Git & GitHub
+- VS Code
+- Linux
+
+---
+
+## 🌱 Currently Learning
+
+- Data Structures & Algorithms
+- Statistics & Probability
+- Machine Learning Fundamentals
+- Data Visualization
+- SQL for Data Analysis
+
+---
+
+## 🎯 Goals for 2026
+
+- Build 10+ Data Science projects
+- Contribute to Open Source
+- Learn Deep Learning
+- Strengthen Python skills
+- Create a strong Data Science portfolio
+
+---
+
+## 📂 Future Projects
+
+- Student Performance Analysis
+- House Price Prediction
+- Titanic Survival Prediction
+- Exploratory Data Analysis (EDA)
+- Data Visualization Dashboards
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sushanttds-jpg&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sushanttds-jpg&layout=compact)
+
+---
+
+## 📫 Connect
+
+- GitHub: https://github.com/sushanttds-jpg
+
+---
+
+⭐ Thanks for visiting my profile. I'm continuously learning and building new things.
