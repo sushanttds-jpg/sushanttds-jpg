@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sushant</h1>
 
 <h3 align="center">
-Computer Science Student | ML Enthusiast | Linux Explorer
+Data Science | ML Enthusiast | Linux Explorer
 </h3>
 
 <p align="center">
