@@ -73,9 +73,9 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sushanttds-jpg&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sushanttds-jpg&show_icons=true&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sushanttds-jpg&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sushanttds-jpg&layout=compact&theme=dark)
 
 ---
 
