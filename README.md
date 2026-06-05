@@ -63,8 +63,9 @@
 ## 📂 Future Projects
 
 - Student Performance Analysis
-- House Price Prediction
-- Titanic Survival Prediction
+- NEPSE Stock Market Dashboard (real Nepali market data)
+- NEPSE Sentiment Analyzer (NLP on financial news)
+- Nepal Demographics Analysis
 - Exploratory Data Analysis (EDA)
 - Data Visualization Dashboards
 
