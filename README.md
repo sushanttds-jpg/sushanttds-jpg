@@ -10,12 +10,12 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 First-year Data Science student at Tribhuvan University
-- 📊 Interested in Data Science, Machine Learning, and AI
-- 🐍 Learning Python and data analysis
-- 🐧 Linux enthusiast
-- 📚 Currently strengthening my foundation in mathematics, statistics, and programming
-- 🚀 Building projects and documenting my learning journey
+-  First-year Data Science student at Tribhuvan University
+-  Interested in Data Science, Machine Learning, and AI
+-  Learning Python and data analysis
+-  Linux enthusiast
+-  Currently strengthening my foundation in mathematics, statistics, and programming
+-  Building projects and documenting my learning journey
 
 ---
 
@@ -23,7 +23,7 @@
 
 ### Languages
 - Python
-- SQL (Learning)
+- SQL
 - C
 
 ### Data Science & ML
