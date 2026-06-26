@@ -78,7 +78,7 @@
 ## 📫 Connect
 
 - GitHub: https://github.com/sushanttds-jpg
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
 ---
 
