@@ -54,10 +54,10 @@
 
 ## 🎯 Goals for 2026
 
-- [ ] Build **10+ Data Science projects**
-- [ ] Contribute actively to Open Source
-- [ ] Dive deep into Deep Learning
-- [ ] Craft a standout Data Science portfolio
+-  Build **10+ Data Science projects**
+-  Contribute actively to Open Source
+-  Dive deep into Deep Learning
+-  Craft a standout Data Science portfolio
 
 ---
 
