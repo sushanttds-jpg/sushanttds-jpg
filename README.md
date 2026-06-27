@@ -13,10 +13,10 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 **Education:** First-year Data Science student at Tribhuvan University.
+- 🎓 **Education:** Data Science student at Tribhuvan University.
 - 💡 **Interests:** Deeply fascinated by Data Science, Machine Learning, and AI.
 - ⚙️ **OS:** Linux enthusiast.
-- 🧠 **Focus:** Currently strengthening my core foundations in mathematics, statistics, and programming.
+- 🧠 **Focus:** Strengthening core foundations in mathematics, statistics, and programming.
 - 🚀 **Mission:** Building real-world projects and documenting my learning journey step-by-step.
 
 ---
@@ -63,10 +63,10 @@
 
 ## 📂 Future Projects
 
-* 📈 **NEPSE Stock Market Dashboard** (Real-time Nepali market data visualization)
-* 🧠 **NEPSE Sentiment Analyzer** (NLP modeling applied to financial news)
-* 👥 **Nepal Demographics Analysis** (Exploratory Data Analysis using public census datasets)
-* 🎓 **Student Performance Analysis** (Predictive analytics in education)
+* 📈 **NEPSE Stock Market Dashboard** — *Real-time Nepali market data visualization*
+* 🧠 **NEPSE Sentiment Analyzer** — *NLP modeling applied to financial news*
+* 👥 **Nepal Demographics Analysis** — *Exploratory Data Analysis using public census datasets*
+* 🎓 **Student Performance Analysis** — *Predictive analytics in education*
 
 ---
 
