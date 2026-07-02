@@ -50,7 +50,7 @@
 
 | Project | Description | Stack |
 |---|---|---|
-| [HFIN Event Study](https://github.com/sushanttds-jpg) | Political event analysis of Nepal hotel stocks — detected +1,140% pump during 2026 political transition using real NEPSE data | Python, Pandas, Matplotlib |
+| [HFIN Event Study](https://github.com/sushanttds-jpg/HfIN_Analysis_Using_Python) | Political event analysis of Nepal hotel stocks — detected +1,140% pump during 2026 political transition using real NEPSE data | Python, Pandas, Matplotlib |
 | [Global Autoimmune Analysis](https://github.com/sushanttds-jpg) | Survival rates across 5 diseases, 7 regions — WHO/CDC/GBD 2021 data | Python, NumPy, Pandas |
 | [Local LLM Pipeline](https://github.com/sushanttds-jpg) | DistilBERT + SmolLM3 running on CPU only, no GPU — Arch Linux | HuggingFace Transformers |
 | [Word Guessing Game](https://github.com/sushanttds-jpg) | Terminal-based Python game | Python |
