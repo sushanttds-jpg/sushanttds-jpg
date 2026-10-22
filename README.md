@@ -16,7 +16,7 @@
   Sciences, Tribhuvan University, Kirtipur
 - 💡 **Interests:** Data Science, Machine Learning, LLM Engineering, 
   Financial Market Analysis
-- ⚙️ **OS:** Arch Linux
+- ⚙️ **OS:** Fedora
 - 🧠 **Focus:** Building real projects on real data — 
   Nepal Stock Exchange, global health data, local LLM inference
 - 🎯 **Mission:** Erasmus Mundus EMJM → AI/ML Research
