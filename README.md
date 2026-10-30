@@ -93,5 +93,5 @@
 ---
 
 <p align="center">
-⭐ First-year student. Long game. Building since June 2026.
+⭐ “Technology is nothing. What’s important is that you have a faith in people, that they’re basically good and smart, and if you give them tools, they’ll do wonderful things with them.” – Steve Jobs
 </p>
