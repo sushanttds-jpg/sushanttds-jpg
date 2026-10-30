@@ -1,80 +1,97 @@
-# Hi, I'm Sushant 👋
-
-<p align="left">
-  <a href="https://github.com/sushanttds-jpg"><img src="https://img.shields.io/badge/Nepal-🇳🇵-blue?style=flat" alt="Nepal" /></a>
-  <a href="https://github.com/sushanttds-jpg"><img src="https://img.shields.io/badge/TU-School%20of%20Mathematical%20Sciences-orange?style=flat" alt="TU SMS" /></a>
-  <a href="https://github.com/sushanttds-jpg"><img src="https://img.shields.io/badge/Aspirations-Erasmus%20Mundus%20(EMJM)-purple?style=flat" alt="EMJM" /></a>
-  <a href="https://github.com/sushanttds-jpg"><img src="https://img.shields.io/badge/Focus-Real--World%20Data-2ea44f?style=flat" alt="Real Data" /></a>
-</p>
-
-Data Science undergraduate at the **School of Mathematical Sciences, Tribhuvan University** (Kathmandu, Nepal). Passionate about applied statistics, time-series econometrics, epidemiological data, and building reproducible data pipelines.
-
-Targeting an **Erasmus Mundus Joint Master (EMJM)** in Data Science, Artificial Intelligence, and Biostatistics.
-
----
-
-### ⚡ Quick Snapshot
-
-- 🎓 **Major:** Bachelor of Data Science (BDS)
-- 📍 **Based in:** Kathmandu, Nepal
-- ⚙️ **Daily Driver:** Fedora Linux, VS Code, Python 3.12, Git
-- 💡 **Motto:** Real-world local data over generic tutorial datasets. Long game.
-
----
-
-## 🚀 Featured Projects
-
-### 📈 [NEPSE Event Study & Automated Market Pipeline](https://github.com/sushanttds-jpg/HfIN_Analysis_Using_Python)
-> *Quantitative event study on speculative bubble dynamics in the Nepal Stock Exchange (NEPSE).*
-- **Empirical Focus:** Analyzed the **+1,140% speculative surge** of Hotel Forest Inn (HFIN) during Nepal's 2026 political transition, identifying distribution anomalies and volatility spikes.
-- **DataOps Pipeline:** Automated daily data sync using a **GitHub Actions cron job** running at 4:00 PM NPT (market close) with unit testing in CI.
-- **Stack:** `Python` • `Pandas` • `Matplotlib` • `GitHub Actions` • `pytest`
-
-### 🧬 [Autoimmune Treatment Response Predictor](https://github.com/sushanttds-jpg/autoimmune_medicine_predictor)
-> *Supervised classification pipeline predicting therapeutic efficacy for autoimmune therapies.*
-- **Methodology:** Evaluates patient clinical biomarkers (CRP, ESR, disease severity scores) to predict drug response across Biologics, JAK Inhibitors, and DMARDs.
-- **Validation:** Evaluated via **5-Fold Stratified Cross-Validation**, ROC-AUC curves, and confusion matrix diagnostics.
-- **Stack:** `Python` • `Scikit-Learn` • `Pandas` • `NumPy` • `Matplotlib`
-
-### 📊 [Nepal Education & Literacy Trends Explorer (1980–2023)](https://github.com/sushanttds-jpg/Nepal-Education-Literacy-Trends-Explorer)
-> *Four-decade longitudinal study on national educational progression and gender parity in Nepal.*
-- **Empirical Focus:** Modeled female literacy acceleration, primary school completion rates, and Gender Parity Index (GPI) evolution against World Bank WDI benchmarks.
-- **Stack:** `Python` • `Pandas` • `Matplotlib` • `CI Test Suite`
-
-### 🌍 [Global Autoimmune Disease Epidemiology](https://github.com/sushanttds-jpg/Global-Autoimmune-Disease-Analysis-Dashboard)
-> *Multi-regional demographic and survival analysis across 5 major autoimmune conditions.*
-- **Empirical Focus:** Cross-sectional analysis assessing 5-year survival rates, diagnostic latency, and female-to-male prevalence ratios across global health regions.
-- **Stack:** `Python` • `Pandas` • `NumPy` • `Matplotlib`
-
----
-
-## 🛠️ Tech & Tools
-
-- **Languages:** Python 3.12, C, Bash, LaTeX
-- **Data Science & ML:** Pandas, NumPy, Scikit-Learn, SciPy, Matplotlib, Seaborn
-- **Engineering & Environment:** Linux (Fedora), Git, GitHub Actions (CI/CD & Cron ETL), VS Code
-
-### 📚 Currently Exploring & In Progress
-- 📈 **Financial Econometrics:** Volatility modeling (GARCH / ARIMA) on NEPSE equities
-- 🔥 **Deep Learning Foundations:** Neural network architectures & PyTorch tensor mechanics
-- 🧮 **Applied Mathematics:** Linear Algebra, Multivariable Calculus, Inferential Statistics
-
----
-
-## 📊 GitHub Activity
+<h1 align="center">Hi 👋, I'm Sushant</h1>
+<h3 align="center">Data Science Student • Python Enthusiast • Lifelong Learner</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sushanttds-jpg&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Sushant's GitHub Stats" />
+  <img src="https://img.shields.io/badge/Nepal-🇳🇵-blue" />
+  <img src="https://img.shields.io/badge/Data%20Science-📊-orange" />
+  <img src="https://img.shields.io/badge/Python-🐍-yellow" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-🤖-green" />
 </p>
+
+---
+
+## 👨‍💻 About Me
+
+- 🎓 **Education:** Bachelor of Data Science @ School of Mathematical 
+  Sciences, Tribhuvan University, Kirtipur
+- 💡 **Interests:** Data Science, Machine Learning, LLM Engineering, 
+  Financial Market Analysis
+- ⚙️ **OS:** Fedora
+- 🧠 **Focus:** Building real projects on real data — 
+  Nepal Stock Exchange, global health data, local LLM inference
+- 🎯 **Mission:** Erasmus Mundus EMJM → AI/ML Research
+
+---
+
+## 🚀 Tech Stack
+
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
+
+### Data Science & ML
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=flat&logo=matplotlib&logoColor=black)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
+
+### Tools & Platforms
+![Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=flat&logo=arch-linux&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 📂 Projects Built
+
+| Project | Description | Stack |
+|---|---|---|
+| [HFIN Event Study](https://github.com/sushanttds-jpg/HfIN_Analysis_Using_Python) | Political event analysis of Nepal hotel stocks — detected +1,140% pump during 2026 political transition using real NEPSE data | Python, Pandas, Matplotlib |
+| [Global Autoimmune Analysis](https://github.com/sushanttds-jpg) | Survival rates across 5 diseases, 7 regions — WHO/CDC/GBD 2021 data | Python, NumPy, Pandas |
+| [Local LLM Pipeline](https://github.com/sushanttds-jpg) | DistilBERT + SmolLM3 running on CPU only, no GPU — Arch Linux | HuggingFace Transformers |
+| [Word Guessing Game](https://github.com/sushanttds-jpg) | Terminal-based Python game | Python |
+
+---
+
+## 🌱 Currently Learning
+
+- 🔥 PyTorch — tensor operations to neural networks
+- 📊 Advanced Statistics & Probability
+- 🧮 Discrete Mathematics
+- 🌲 Data Structures & Algorithms
+
+---
+
+## 🎯 Goals for 2026
+
+- Complete PyTorch curriculum (Stages 1-8)
+- Build NEPSE ML Price Predictor
+- Maintain consistent GitHub contribution streak
+- Apply for Fusemachines internship
+- Strengthen Erasmus Mundus profile
+
+---
+
+## 📈 Future Projects
+
+- 🧠 **NEPSE Sentiment Analyzer** — NLP on financial news
+- 📊 **Nepal Demographics Analysis** — public census EDA
+- 🤖 **NEPSE ML Predictor** — PyTorch neural network on real data
 
 ---
 
 ## 📫 Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sushant-thapa-ba290838b/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sushanttds-jpg)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sushant%20Thapa-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sushant-thapa-ba290838b/)
-[![GitHub](https://img.shields.io/badge/GitHub-sushanttds--jpg-181717?style=flat&logo=github&logoColor=white)](https://github.com/sushanttds-jpg)
-[![Email](https://img.shields.io/badge/Email-sushantt.ds%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sushantt.ds@gmail.com)
+
+
+---
 
 <p align="center">
-  <sub>Bachelor of Data Science @ School of Mathematical Sciences, Tribhuvan University • Building since 2026</sub>
+⭐ First-year student. Long game. Building since June 2026.
 </p>
